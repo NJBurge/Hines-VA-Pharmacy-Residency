@@ -1,3 +1,13 @@
 # Hines VA Pharmacy Residency
-While our website is being revised, please review the documents here to learn more about the Residency Programs, the Service, and the Edward Hines, Jr. VA Hospital
-Select **CODE** on this page to either download a .zip file of all contents, or select each document individually to review/download.![Hines Frotn](https://user-images.githubusercontent.com/83415190/144442478-ee15bd6a-30ef-4a08-ac87-6d012b1b9c9a.jpg)
+**While our website is being revised, please review the documents here to learn more about the Residency Programs, the Service, and the Edward Hines, Jr. VA Hospital.
+Select CODE on this page to either download a .zip file of all contents, or select each document individually to review/download.**
+
+The Edward Hines, Jr. VA Hospital Pharmacy Residency Programs are designed to offer pharmacy residents an opportunity to advance their knowledge and skills. Our Facility offers training programs for PGY-1 Pharmacy Residents, along with PGY-2 residencies in Infectious Diseases and Health-System Pharmacy Administration and Leadership
+
+The Edward Hines, Jr. VA Hospital is located 12 miles west of downtown Chicago and is minutes away from entertainment, culture, and diversity. Hines currently operates approximately 500 beds, including acute care and nursing home beds. In addition to offering primary, extended, and specialty care at our main Hospital, Hines operates community-based outpatient clinics (CBOCs) in Aurora, Hoffman Estates, Joliet, Kankakee, LaSalle, and Oak Lawn. Hines is institutionally affiliated with Loyola University of Chicago, Stritch School of Medicine. 
+
+By combining cutting-edge technology with comprehensive clinical services, Hines Pharmacy Service continuously seeks new ways of improving patient care. Clinical Pharmacy Specialists with a Scope of Practice provide direct-patient care clinical services (disease state/medication management) within the following areas: Acute Internal Medicine, Critical Care, Nutrition Support, Infectious Diseases, Geriatrics (Long Term Care/Home Based Primary Care), Anticoagulation, Nephrology, Ambulatory Care General Medicine, Mental Health, Oncology, Solid Organ Transplant, and Women’s Health. Examples of other clinical services include but are not limited to: Pharmacokinetic monitoring, medication use evaluation, Pharmacoeconomics, and overall monitoring to provide optimal pharmaceutical patient care. 
+
+Hines PGY-1 Pharmacy Residency is ASHP Accredited and was established in 1999. While the program requires core pharmacy practice components, it also allows for flexibility in order for the resident to customize the program toward his/her interests. The resident will be working with pharmacists both within the outpatient and inpatient pharmacies as well as in clinics and on the patient care floors. By combining direct clinical services with staffing responsibilities, the resident will be exposed to a complete picture of modern pharmacy practice. 
+
+![Hines Frotn](https://user-images.githubusercontent.com/83415190/144442478-ee15bd6a-30ef-4a08-ac87-6d012b1b9c9a.jpg)
