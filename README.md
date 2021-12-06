@@ -2,7 +2,7 @@
 **While our website is being revised, please review the documents here to learn more about the Residency Programs, the Service, and the Edward Hines, Jr. VA Hospital.
 Select CODE on this page to either download a .zip file of all contents, or select each document individually to review/download.**
 
-The Edward Hines, Jr. VA Hospital Pharmacy Residency Programs are designed to offer pharmacy residents an opportunity to advance their knowledge and skills. Our Facility offers training programs for PGY-1 Pharmacy Residents, along with PGY-2 residencies in Infectious Diseases and Health-System Pharmacy Administration and Leadership
+The Edward Hines, Jr. VA Hospital Pharmacy Residency Programs are designed to offer pharmacy residents an opportunity to advance their knowledge and skills. Our Facility offers training programs for PGY-1 Pharmacy Residents, along with PGY-2 residencies in Infectious Diseases and Health-System Pharmacy Administration and Leadership.
 
 The Edward Hines, Jr. VA Hospital is located 12 miles west of downtown Chicago and is minutes away from entertainment, culture, and diversity. Hines currently operates approximately 500 beds, including acute care and nursing home beds. In addition to offering primary, extended, and specialty care at our main Hospital, Hines operates community-based outpatient clinics (CBOCs) in Aurora, Hoffman Estates, Joliet, Kankakee, LaSalle, and Oak Lawn. Hines is institutionally affiliated with Loyola University of Chicago, Stritch School of Medicine. 
 
